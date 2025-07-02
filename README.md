@@ -1,4 +1,4 @@
-# cs158-final-project
+# Injury Prediction Model
 
 Dependencies installed: <br>
 imbalanced-learn 0.11.0 <br>
